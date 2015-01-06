@@ -1,0 +1,5 @@
+packages/
+SharepointValuesColumnListRenamer/bin/
+SharepointValuesColumnListRenamer/obj/
+*.suo
+*.user
