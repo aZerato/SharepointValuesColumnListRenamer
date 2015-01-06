@@ -5,7 +5,7 @@ Little tools for modifying values in Sharepoint (MOSS 2007) list.
 
 I'm using this tool for modifying quickly values from columns for debug version app.
 
-I'm generate dynamic CAML requests (update moderation status, update values), go to : SharepointValuesColumnListRenamer/Manager/SharepointManager.cs
+I generate dynamic CAML requests (update moderation status, update values), go to for more information : SharepointValuesColumnListRenamer/Manager/SharepointManager.cs
 
 Use
 --
